@@ -1,0 +1,50 @@
+{
+  "name": "Mélissa",
+  "surname": "Scriva",
+  "profession": "Ostéopathe D.O.",
+  "addresses": [
+    {
+      "city": "Aix-En-Provence",
+      "fullAddress": "123 Rue Example, 13100 Aix-En-Provence"
+    },
+    {
+      "city": "Marignane",
+      "fullAddress": "456 Avenue Example, 13700 Marignane"
+    }
+  ],
+  "phone": "06 63 09 24 63",
+  "email": "example@example.fr",
+  "doctolibLinks": {
+    "aixEnProvence": "https://www.doctolib.fr/osteopathe/aix-en-provence/melissa-scriva",
+    "marignane": "https://www.doctolib.fr/osteopathe/vitrolles/mylene-larcher"
+  },
+  "openingHours": {
+    "lundi": "9h - 19h",
+    "mardi": "9h - 19h",
+    "mercredi": "9h - 19h",
+    "jeudi": "9h - 19h",
+    "vendredi": "9h - 19h",
+    "samedi": "9h - 13h",
+    "dimanche": "Fermé"
+  },
+  "services": [
+    {
+      "title": "Consultation Classique",
+      "description": "Bilan complet et traitement adapté à vos besoins spécifiques.",
+      "duration": "45 min",
+      "price": "60€"
+    },
+    {
+      "title": "Ostéopathie Pédiatrique",
+      "description": "Suivi spécialisé pour les nourrissons et enfants.",
+      "duration": "45 min",
+      "price": "60€"
+    },
+    {
+      "title": "Suivi Sportif",
+      "description": "Prévention et traitement des blessures sportives.",
+      "duration": "45 min",
+      "price": "60€"
+    }
+  ]
+}
