@@ -1,11 +1,16 @@
 ---
+import info from '../Info.json';
 const addresses = [
-  { city: "Marignane", link: "https://www.doctolib.fr/osteopathe/vitrolles/mylene-larcher" },
-  { city: "Aix-En-Provence", link: "https://www.doctolib.fr/osteopathe/aix-en-provence/melissa-scriva" }
+  { city: "Marignane", link: info.doctolibLinks.marignane },
+  { city: "Aix-En-Provence", link: info.doctolibLinks.aixEnProvence }
 ];
 ---
 
 <section class="max-w-2xl mx-auto text-center py-10">
+  <h2 class="font-display text-3xl text-primary mb-6">Prenez Rendez-vous en Ligne</h2>
+    <p class="text-gray-700 max-w-2xl mx-auto mb-8">
+      Réservez votre consultation en quelques clics via Doctolib. Simple, rapide et disponible 24h/24.
+    </p>
   <p class="text-lg text-gray-700 mb-6">
     Vous pouvez prendre rendez-vous dans l'un de mes deux cabinets :
   </p>

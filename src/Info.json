@@ -5,11 +5,11 @@
   "addresses": [
     {
       "city": "Aix-En-Provence",
-      "fullAddress": "123 Rue Example, 13100 Aix-En-Provence"
+      "fullAddress": "28 Boulevard de la République, 13100 Aix-en-Provence"
     },
     {
       "city": "Marignane",
-      "fullAddress": "456 Avenue Example, 13700 Marignane"
+      "fullAddress": "Rond-point Hélico, avenue Europe, 13700 Marignane"
     }
   ],
   "phone": "06 63 09 24 63",
